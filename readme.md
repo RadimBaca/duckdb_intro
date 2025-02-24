@@ -1,4 +1,4 @@
-# DuckDB Into
+# DuckDB Intro
 
 This example shows a simple integration of the DuckDB library with a hugging face. 
 
